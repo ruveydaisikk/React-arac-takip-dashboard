@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/5b125c45-b768-4db2-a62a-4af242bbad53
+
 # 🚗Filo Yönetim Dashboard (React — araç takip dashboard'u)
 
 Filo araçlarının listelendiği, filtrelenip sıralanabildiği bir yönetim dashboard'u.
