@@ -35,9 +35,13 @@ Tarayıcıda `http://localhost:5173` adresini aç.
 ## 📸 Ekran Görüntüleri
 
 ### Ana Dashboard
-![Ana Dashboard](public/Filo%20Yönetim%20Dashboard.JPG)
+![Ana Dashboard](public/dashboard.jpg)
 
-### Filtreleme
-![Aktif Araçlar](public/Araç%20Aktif.JPG)
-![Arızalı Araçlar](public/Araç%20Arızalı.JPG)
-![Bakımda Araçlar](public/Araç%20Bakımda.JPG)
+### Aktif Araçlar
+![Aktif Araçlar](public/aktif.jpg)
+
+### Arızalı Araçlar
+![Arızalı Araçlar](public/arizali.jpg)
+
+### Bakımda Araçlar
+![Bakımda Araçlar](public/bakimda.jpg)
